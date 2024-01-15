@@ -5,6 +5,9 @@
 - 사용법 : main.py 실행 후 웹사이트에 원하는 프로그래밍 언어 입력후 결과 확인 및 다운로드 (좌측 상단 Export to file 버튼 클릭)
 - 기본 화면 :
 ![화면 캡처 2023-07-10 155240](https://github.com/kyungjun-kim/Projects/assets/58836568/f4f9834d-a76e-43c2-9dfe-3d4139e0e7c0)
+(https://kyungjun-kim.github.io/Job_Scrapper/templates/home.html)
+
 - 검색 결과 화면 :
 ![화면 캡처 2023-07-10 155332](https://github.com/kyungjun-kim/Projects/assets/58836568/9c9d8c65-e363-4230-8699-9fe93cab0fbb)
+(https://kyungjun-kim.github.io/Job_Scrapper/templates/search.html)
 
